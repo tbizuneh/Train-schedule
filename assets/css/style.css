@@ -1,0 +1,26 @@
+
+#header{
+  background-color: aqua;
+  text-align: center;
+  font-size: 60px;
+  font-family: fantasy;
+}
+h1{
+    text-shadow: ghostwhite;
+    font-size: 100px;
+}
+.card-header{
+    background: darkcyan;
+    margin-top: 20px;
+}
+
+.container{
+    margin-top: 20px;
+	background-color: goldenrod;
+
+}
+
+#add-train {
+    background-color:  green;
+
+}
